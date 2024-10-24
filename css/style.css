@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Noto+Sans+JP:wght@100..900&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body
+{
+    background-color: #edededed;
+}
+
+.heading
+{
+    text-align: center;
+}
+
+.Playground-heading
+{
+    color: blue;
+    font-family: "Noto Sans JP",
+    sans-serif;
+    font-size: 3rem;
+}
+
+.main
+{
+    border: 2px solid gray;
+    width: 55%;
+    margin: 1rem auto;
+}
+
+.main div
+{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 100%;
+    margin: 2rem auto;
+}
+
+#red
+{
+    border-color:  red;
+    margin-bottom: 0;
+}
+
+#blue
+{
+    border-color: blue;
+    margin: 0 auto;
+}
+
+#green
+{
+    border-color: green;
+    margin-top: 0;
+}
+
+.footer
+{
+    text-align: center;
+    font-family: "Allura", serif;
+    font-size: 1rem;
+}
+
